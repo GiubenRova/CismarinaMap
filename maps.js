@@ -21,5 +21,96 @@ const maps = {
             { coords: [700, 700], name: 'Historic Center', desc: 'Prototype landmark.' },
         ]
     },
+    'centro-storico': {
+        image: 'assets/maps/C3aCentroStorico.png',
+        bounds: [[0, 0], [2160, 3840]],
+        pins: [
+            { coords: [700, 700], name: 'Historic Center', desc: 'Prototype landmark.' },
+        ]
+    },
+    'monumentale-monte': {
+        image: 'assets/maps/C3bMonteMonumentale.png',
+        bounds: [[0, 0], [2160, 3840]],
+        pins: [
+            { coords: [700, 700], name: 'Historic Center', desc: 'Prototype landmark.' },
+        ]
+    },
+    'deserto-tempio': {
+        image: 'assets/maps/C4DesertoTempio.png',
+        bounds: [[0, 0], [2160, 3840]],
+        pins: [
+            { coords: [700, 700], name: 'Historic Center', desc: 'Prototype landmark.' },
+        ]
+    },
+    'fiumana': {
+        image: 'assets/maps/C5Fiumana.png',
+        bounds: [[0, 0], [2160, 3840]],
+        pins: [
+            { coords: [700, 700], name: 'Historic Center', desc: 'Prototype landmark.' },
+        ]
+    },
+    'giungla': {
+        image: 'assets/maps/C6Giungla.png',
+        bounds: [[0, 0], [2160, 3840]],
+        pins: [
+            { coords: [700, 700], name: 'Historic Center', desc: 'Prototype landmark.' },
+        ]
+    },
+    'q70': {
+        image: 'assets/maps/C7Q70.png',
+        bounds: [[0, 0], [2160, 3840]],
+        pins: [
+            { coords: [700, 700], name: 'Historic Center', desc: 'Prototype landmark.' },
+        ]
+    },
+    'citta-alta': {
+        image: 'assets/maps/C8CittaAlta.png',
+        bounds: [[0, 0], [2160, 3840]],
+        pins: [
+            { coords: [700, 700], name: 'Historic Center', desc: 'Prototype landmark.' },
+        ]
+    },
+    'sanfabrizio': {
+        image: 'assets/maps/C9SanFabrizio.png',
+        bounds: [[0, 0], [2160, 3840]],
+        pins: [
+            { coords: [700, 700], name: 'Historic Center', desc: 'Prototype landmark.' },
+        ]
+    },
+    'aggiunta': {
+        image: 'assets/maps/C10aAggiunta.png',
+        bounds: [[0, 0], [2160, 3840]],
+        pins: [
+            { coords: [700, 700], name: 'Historic Center', desc: 'Prototype landmark.' },
+        ]
+    },
+    'isola': {
+        image: 'assets/maps/C10bIsola.png',
+        bounds: [[0, 0], [2160, 3840]],
+        pins: [
+            { coords: [700, 700], name: 'Historic Center', desc: 'Prototype landmark.' },
+        ]
+    },
+    'pescatore': {
+        image: 'assets/maps/C11Pescatore.png',
+        bounds: [[0, 0], [2160, 3840]],
+        pins: [
+            { coords: [700, 700], name: 'Historic Center', desc: 'Prototype landmark.' },
+        ]
+    },
+    'goccia': {
+        image: 'assets/maps/C12Goccia.png',
+        bounds: [[0, 0], [2160, 3840]],
+        pins: [
+            { coords: [700, 700], name: 'Historic Center', desc: 'Prototype landmark.' },
+        ]
+    },
+    'ademia': {
+        image: 'assets/maps/C13Ademia.png',
+        bounds: [[0, 0], [2160, 3840]],
+        pins: [
+            { coords: [700, 700], name: 'Historic Center', desc: 'Prototype landmark.' },
+        ]
+    },
     // add more maps here, nothing else changes
 };
