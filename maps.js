@@ -137,7 +137,7 @@ const maps = {
         ]
     },
     'ademia': {
-        image: 'assets/maps/C13Ademia.png',
+        image: 'assets/maps/C13Adémia.png',
         bounds: [[0, 0], [2160, 3840]],
         pins: [
             { coords: [700, 700], name: 'Historic Center', desc: 'Prototype landmark.' },
