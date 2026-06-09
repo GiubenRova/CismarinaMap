@@ -18,21 +18,52 @@ const maps = {
         image: 'assets/maps/C2Chirichia.png',
         bounds: [[0, 0], [2160, 3840]],
         pins: [
-            { coords: [700, 700], name: 'Historic Center', desc: 'Prototype landmark.' },
+            { coords: [1100, 1843], name: 'Campanile di Chirichia', desc: 'Bell Tower of the Village of Chirichia' },
+            { coords: [900, 1920], name: 'Residenza di Chirichia', desc: 'First residential building for Governors in the Neighborhood of Chirichia' },
+            { coords: [1010, 1777], name: 'Monumento Sospeso', desc: 'Only monument in the entire Republic to be partially suspended in the air' },
+            { coords: [925, 1839], name: 'Torre di Chirichia', desc: 'Beautiful tower, highest of the Neighborhood' },
+            { coords: [850, 1827], name: 'La Sfera', desc: 'Monumental sphere in the center of the neighborhood' },
+            { coords: [1064, 1916], name: 'Villaggio di Chirichia', desc: 'Village of Chirichia, inhabited by the local Villagers' },
+            { coords: [1010, 1704], name: 'Torre Rotta', desc: 'Tower dedicated to the catastrophic earthquake occurred in Emilia-Romagna in 2012, built around that period' },
+            { coords: [810, 1854], name: 'Volto di Re Ademo', desc: 'Monumental face attributed to King Ademo' },
+            { coords: [800, 1920], name: 'Biblioteca del Centenario di Re Frank Felice I', desc: 'Library built to celebrate the centenary of King Frank Felice I' },
+
         ]
     },
     'centro-storico': {
         image: 'assets/maps/C3aCentroStorico.png',
         bounds: [[0, 0], [2160, 3840]],
         pins: [
-            { coords: [700, 700], name: 'Historic Center', desc: 'Prototype landmark.' },
+            { coords: [1050, 1650], name: 'Casa Antica, o dei Nonni', desc: 'House built in remembrance of the past' },
+            { coords: [1050, 1850], name: 'Palazzo Portici', desc: 'Main administrative building of the City of Cismarina, hosts the main government offices' },
+            { coords: [870, 1532], name: 'Palazzo Arisini del Parco', desc: 'Beautiful building built in place of the old Royal Park' },
+            { coords: [1050, 2181], name: 'Università di Cismarina', desc: 'University of Cismarina, recently rebuilt and expanded' },
+            { coords: [1190, 2215], name: 'Tribunale di Cismarina, o Ziggurat', desc: 'Courthouse of Cismarina, also known as the Ziggurat' },
+            { coords: [1110, 1551], name: 'Cismarina 1', desc: 'The oldest skyscraper in the Neighborhood, recently moved by a few cubits' },
+            { coords: [1250, 1236], name: 'Palazzo del Governo', desc: 'Palace of the Government and house of the Parliament' },
+            { coords: [1150, 1808], name: 'Torre del Trono', desc: 'Tower once seat to the throne of the Kingdom' },
+            { coords: [945, 1267], name: 'Palazzo della Civiltà', desc: 'Building representing the cultural heritage of Cismarina, built in the style of the Palazzo della Civiltà in Rome' },
+            { coords: [1060, 1152], name: 'Vecchio Senato Reale', desc: 'Old Royal Senate building, now in disuse' },
+            { coords: [1060, 1400], name: 'Palazzo della Vittoria', desc: 'Building dedicated to the victory of Cismarina, hosts the Permanent Exhibition of Victory' },
+            { coords: [810, 1274], name: 'Fontana del Silos', desc: 'Large fountain built in place of the historic Silos built by King Frank X' },
+            { coords: [1190, 1512], name: 'Torre Kenzo', desc: 'Fantastic tower with a unique design, second skyscraper built in the Neighborhood' },
+            { coords: [1150, 1990], name: 'Magazzino del Centro', desc: 'Large warehouse in the center of the Neighborhood' },
+
         ]
     },
     'monumentale-monte': {
         image: 'assets/maps/C3bMonteMonumentale.png',
         bounds: [[0, 0], [2160, 3840]],
         pins: [
-            { coords: [700, 700], name: 'Historic Center', desc: 'Prototype landmark.' },
+            { coords: [926, 1681], name: 'Villa Cottage', desc: 'Gubernatorial Villa, first to be built in a pseudo-english style' },
+            { coords: [1230, 1858], name: 'Monumento', desc: 'Gives his name to the area; gorgeous monument built in the Royal Era' },
+            { coords: [1100, 1989], name: 'Torre Granda', desc: 'Highest tower in the City for a long time, built as a copy of the Garisenda Tower in Bologna' },
+            { coords: [750, 1916], name: 'Granaio', desc: 'Building used for storing grain, located close to the crop fields' },
+            { coords: [550, 1793], name: 'Hotel Morgendorffer', desc: 'Building for which the work has taken the longest in the history of the City' },
+            { coords: [1300, 2062], name: 'Mercato della Darsena', desc: 'Now the Natural History Museum of Cismarina' },
+            { coords: [930, 2192], name: 'Monte Rodolfo', desc: 'Highest peak in the City' },
+            { coords: [1200, 2030], name: 'Istituto Geografico', desc: 'Geographical Institute of Cismarina, built during the Royal Era of Exploration' },
+
         ]
     },
     'deserto-tempio': {
