@@ -81,7 +81,9 @@ const maps = {
         image: 'assets/maps/C5Fiumana.png',
         bounds: [[0, 0], [2160, 3840]],
         pins: [
-            { coords: [700, 700], name: 'Historic Center', desc: 'Prototype landmark.' },
+            { coords: [1100, 2184], name: 'Villa Fiumana', desc: 'Ancient villa located in the Fiumana Neighborhood, built in the Royal Era' },
+            { coords: [1050, 1685], name: 'Diga di Fiumana', desc: 'Dam built to control the flow of the Fiumana watersource' },
+
         ]
     },
     'giungla': {
