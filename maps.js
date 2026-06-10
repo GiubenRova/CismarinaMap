@@ -70,9 +70,10 @@ const maps = {
         image: 'assets/maps/C4DesertoTempio.png',
         bounds: [[0, 0], [2160, 3840]],
         pins: [
-            { coords: [700, 700], name: 'Historic Center', desc: 'Prototype landmark.' },
-            { coords: [700, 700], name: 'Historic Center', desc: 'Prototype landmark.' },
-            { coords: [700, 700], name: 'Historic Center', desc: 'Prototype landmark.' },
+            { coords: [1083, 2062], name: 'Tempio Antico', desc: 'Old and obscure temple, built during the Royal Era' },
+            { coords: [900, 2703], name: 'Galleria del Deserto', desc: 'Underground gallery built by King Frank X using dynamite' },
+            { coords: [1076, 2507], name: 'Villaggio del Deserto', desc: 'Recently built Village in the Desert Neighborhood' },
+            { coords: [1129, 1351], name: 'Tempio Nuovo', desc: 'Most recent temple built in the Desert Neighborhood, dedicated to a cult not yet discovered' },
 
         ]
     },
