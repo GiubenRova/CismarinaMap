@@ -167,28 +167,45 @@ const maps = {
         image: 'assets/maps/C10bIsola.png',
         bounds: [[0, 0], [2160, 3840]],
         pins: [
-            { coords: [700, 700], name: 'Historic Center', desc: 'Prototype landmark.' },
+            { coords: [1060, 1840], name: 'Torretta Isolana', desc: 'Beautifull tower built in the Cismarinan neo-gothic style' },
+            { coords: [1000, 1860], name: 'Sede del Quartiere Isola', desc: 'Seat of the Isola Neighborhood' },
+            { coords: [1040, 1793], name: 'Cisterna Isolana', desc: 'Public water reservoir' },
+            { coords: [900, 1858], name: 'Taverna Isolana', desc: 'Local tavern' },
+            { coords: [930, 1804], name: 'Ponte Gentile', desc: 'Bridge connecting the Isola Neighborhood to Aggiunta' },
+            { coords: [1000, 1904], name: 'Ponte verso Villa Turchi', desc: 'Bridge connecting the Isola Neighborhood to Villa Turchi' },
+        
         ]
     },
     'pescatore': {
         image: 'assets/maps/C11Pescatore.png',
         bounds: [[0, 0], [2160, 3840]],
         pins: [
-            { coords: [700, 700], name: 'Historic Center', desc: 'Prototype landmark.' },
+            { coords: [1050, 2158], name: 'Palazzo dello Sviluppo', desc: 'Part of a bigger project aimed at the development of underdeveloped areas, never completed' },
+            { coords: [800, 2112], name: 'Palazzo della Borsa', desc: 'Stock exchange building' },
+            { coords: [600, 2146], name: 'Ara Tergis', desc: 'Building for the 100th day of Governor Todd Tergi in power' },
+            { coords: [1050, 2415], name: 'Zona Industriale del Pescatore', desc: 'First industrial zone built in the Pescatore Neighborhood and in the City' },
+            { coords: [800, 2407], name: 'F.C.U.A. Fabbrica Cismarina Uova Autoctone', desc: 'First factory built in the Pescatore Neighborhood' },
+            { coords: [1000, 2672], name: 'Baia del Porto di Cismarina', desc: 'Natural harbor of the city' },
+            { coords: [1290, 1973], name: 'Chiesetta e Monastero del Pescatore', desc: 'Historic church and monastery, property of the Church of Frank X' },
+            { coords: [1150, 1831], name: 'Villino San Francesco', desc: 'Governor residence built as a base during the development of the area' },
+
         ]
     },
     'goccia': {
         image: 'assets/maps/C12Goccia.png',
         bounds: [[0, 0], [2160, 3840]],
         pins: [
-            { coords: [700, 700], name: 'Historic Center', desc: 'Prototype landmark.' },
+            { coords: [1000, 1850], name: 'Viale della Goccia', desc: 'Central avenue in the Goccia Neighborhood' },
         ]
     },
     'ademia': {
         image: 'assets/maps/C13Ademia.png',
         bounds: [[0, 0], [2160, 3840]],
         pins: [
-            { coords: [700, 700], name: 'Historic Center', desc: 'Prototype landmark.' },
+            { coords: [1300, 1693], name: 'Nuova Darsena', desc: 'Dock built in the Royal Era' },
+            { coords: [1000, 1566], name: 'Villaggio di Ademia', desc: 'Historic village in the Ademia Neighborhood' },
+            { coords: [1270, 1601], name: 'Villa Governatoriale Ademia-Campionesi', desc: 'Historic villa in the Ademia Neighborhood, recently expanded by Governor Omobono Campionesi' },
+
         ]
     },
     // add more maps here, nothing else changes
