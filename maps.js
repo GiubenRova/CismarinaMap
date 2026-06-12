@@ -90,35 +90,77 @@ const maps = {
         image: 'assets/maps/C6Giungla.png',
         bounds: [[0, 0], [2160, 3840]],
         pins: [
-            { coords: [700, 700], name: 'Historic Center', desc: 'Prototype landmark.' },
+            { coords: [930, 1570], name: 'Borghetto della Giungla', desc: 'First constructions in the Giungla Neighborhood' },
+            { coords: [920, 1647], name: 'Rovina della Villa del Borghetto', desc: 'Old Villa whose ruins are still visible' },
+            { coords: [930, 2403], name: 'Avamposto della Giungla', desc: 'Seat of the Giungla Neighborhood, recently expanded and modernized' },
+            { coords: [1080, 2469], name: 'Porto della Giungla', desc: 'Nice harbor in the Giungla Neighborhood, heading east to the City of Grontolom' },
+            { coords: [1200, 1570], name: 'Parlamento Superiore della Repubblica Federale', desc: 'Parliament of the Federal Republic of the Sister Cities, located in the Giungla Neighborhood' },
+
         ]
     },
     'q70': {
         image: 'assets/maps/C7Q70.png',
         bounds: [[0, 0], [2160, 3840]],
         pins: [
-            { coords: [700, 700], name: 'Historic Center', desc: 'Prototype landmark.' },
+            { coords: [900, 1728], name: 'Stadio Q70', desc: 'Biggest Stadium in the City' },
+            { coords: [1200, 2065], name: 'Museo di Arte Moderna Q70', desc: 'Modern Art Museum of Q70' },
+            { coords: [1100, 2269], name: 'Prioria del Q70', desc: 'Priory of the Q70 Neighborhood, most magnificent house in the area' },
+            { coords: [900, 2219], name: 'Monumento della Prioria', desc: 'Beautiful landmark in the Q70 Neighborhood' },
         ]
     },
     'citta-alta': {
         image: 'assets/maps/C8CittaAlta.png',
         bounds: [[0, 0], [2160, 3840]],
         pins: [
-            { coords: [700, 700], name: 'Historic Center', desc: 'Prototype landmark.' },
+            { coords: [1190, 1670], name: 'Cattedrale di Cismarina', desc: 'One of the three major Cathedrals in the Federal Republic, this is the biggest' },
+            { coords: [1400, 1555], name: 'Accademia di Cismarina', desc: 'Architectural Academy of Cismarina' },
+            { coords: [1600, 1939], name: 'Piazza del Tappeto', desc: 'Piazza shaped like a carpet' },
+            { coords: [700, 1616], name: 'Palazzo della Guardia Cittadina', desc: 'Palace of the City Guard, now the Museum of Flags' },
+            { coords: [800, 1190], name: 'Villa Turchi', desc: 'Magnificent Villa built by Filippo Turchi, now a major Gubernatorial Residence' },
+            { coords: [400, 1450], name: 'Complesso Libreria-Prigione', desc: 'The first building ever built in Città Alta' },
+            { coords: [550, 1608], name: 'Banca di Cismarina', desc: 'Seat of the Central Bank of Cismarina and its reserves' },
+            { coords: [980, 1681], name: 'Piazza dei Quattro Pilastri', desc: 'Four Pillars Square, each pillar represents a different virtue of the City' },
+            { coords: [500, 1194], name: 'Palazzo di Vetro', desc: 'Seat of the Città Alta Neighborhood and the Cismarina Herald' },
+       
         ]
     },
     'sanfabrizio': {
         image: 'assets/maps/C9SanFabrizio.png',
         bounds: [[0, 0], [2160, 3840]],
         pins: [
-            { coords: [700, 700], name: 'Historic Center', desc: 'Prototype landmark.' },
+            { coords: [1150, 1728], name: 'Faro di San Fabrizio', desc: 'Beautiful lighthouse in the San Fabrizio Neighborhood' },
+            { coords: [950, 1831], name: 'Arenella di San Fabrizio', desc: 'Small theatre in the San Fabrizio Neighborhood built in the greek style' },
+            { coords: [1068, 2472], name: 'Isole di San Fabrizio', desc: 'Group of small islands in the San Fabrizio Neighborhood' },
+
         ]
     },
     'aggiunta': {
         image: 'assets/maps/C10aAggiunta.png',
         bounds: [[0, 0], [2160, 3840]],
         pins: [
-            { coords: [700, 700], name: 'Historic Center', desc: 'Prototype landmark.' },
+            { coords: [1390, 2085], name: 'Tempio Civile del Millenario', desc: 'Prototype landmark.' },
+            { coords: [1100, 1855], name: 'Torre Islandese', desc: 'Prototype landmark.' },
+            { coords: [1350, 1666], name: 'Statua Ingegno Umano', desc: 'Prototype landmark.' },
+            { coords: [1100, 1593], name: 'Palazzo di Lugano - Metro Cismarina', desc: 'Prototype landmark.' },
+            { coords: [1250, 1463], name: 'Palazzo del Commercio Cittadino', desc: 'Prototype landmark.' },
+            { coords: [1072, 1466], name: 'Stadio Aggiunta', desc: 'Prototype landmark.' },
+            { coords: [980, 1466], name: 'Istituto di Lingua Cismarina', desc: 'Prototype landmark.' },
+            { coords: [840, 1466], name: 'Palazzo Mornintoni', desc: 'Prototype landmark.' },
+            { coords: [1290, 1263], name: 'Museo di Cismarina', desc: 'Prototype landmark.' },
+            { coords: [1064, 1328], name: 'Torre della Polvere da Sparo', desc: 'Prototype landmark.' },
+            { coords: [840, 1328], name: 'Fontana del Cascone', desc: 'Prototype landmark.' },
+            { coords: [710, 1328], name: 'Torre Geberit o Palazzo degli Abeti', desc: 'Prototype landmark.' },
+            { coords: [580, 1328], name: 'Torre Cercati', desc: 'Prototype landmark.' },
+            { coords: [450, 1328], name: 'Torre Galli-Hendel', desc: 'Prototype landmark.' },
+            { coords: [960, 1198], name: 'Palazzo dei Partiti', desc: 'Prototype landmark.' },
+            { coords: [840, 1198], name: 'Torre Avviluppata', desc: 'Prototype landmark.' },
+            { coords: [710, 1198], name: 'Torre Arisini', desc: 'Prototype landmark.' },
+            { coords: [580, 1198], name: 'Torre Galli-Angiolo', desc: 'Prototype landmark.' },
+            { coords: [450, 1198], name: 'Torre Michelini', desc: 'Prototype landmark.' },
+            { coords: [1175, 1032], name: 'Monumento e Alloggi di Basalto', desc: 'Prototype landmark.' },
+            { coords: [700, 1032], name: 'Ville a schiera', desc: 'Prototype landmark.' },
+            { coords: [600, 837], name: 'Lago Tamborina', desc: 'Prototype landmark.' },
+
         ]
     },
     'isola': {
